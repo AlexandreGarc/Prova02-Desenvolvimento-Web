@@ -3,20 +3,23 @@
 Projeto para cadastro de Produtos para E-Commerce.
 Nesse cadastro, teremos as seguintes informações:
 
-* Nome do produto
-* Tipo
-* Modelo
 * ID do produto
+* Nome do produto
+* Categoria
+* Preço
+* Modelo
+
 * Genero (masculino ou feminino)
 
-Vamos utilizar banco de dados MySQL e orientação a objetos para separar o acesso ao banco de dados.
-
-### CRUD
+# CRUD Gestão de estoque
 
 * Create
 * Read
 * Update
 * Delete
+* Sistema para gestão de estoque
 
+## Sobre
+Sistema de gestão de estoque utilizan MySQL e PHP com orientação a objetos. Todas as operações CRUD foram utilizadas
 
 
