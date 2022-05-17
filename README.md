@@ -9,7 +9,6 @@ Nesse cadastro, teremos as seguintes informações:
 * Preço
 * Modelo
 
-* Genero (masculino ou feminino)
 
 # CRUD Gestão de estoque
 
