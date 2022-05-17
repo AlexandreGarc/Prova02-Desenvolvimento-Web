@@ -1,7 +1,7 @@
-## Projeto Cadastro
+# Projeto Cadastro
 
-Projeto para cadastro de Produtos para E-Commerce.
-Nesse cadastro, teremos as seguintes informações:
+##Projeto para cadastro de Produtos para E-Commerce.
+  Nesse cadastro, teremos as seguintes informações:
 
 * ID do produto
 * Nome do produto
@@ -18,7 +18,7 @@ Nesse cadastro, teremos as seguintes informações:
 * Delete
 * Sistema para gestão de estoque
 
-## Sobre
-Sistema de gestão de estoque utilizan MySQL e PHP com orientação a objetos. Todas as operações CRUD foram utilizadas
+#Sobre
+* Sistema de gestão de estoque utilizan MySQL e PHP com orientação a objetos. Todas as operações CRUD foram utilizadas
 
 
