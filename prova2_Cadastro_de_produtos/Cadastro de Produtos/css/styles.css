@@ -1,0 +1,38 @@
+/* CSS */
+body {
+	background-color: rgb(243, 96, 96) !important;
+	font-family: 'Koulen', cursive;
+}
+
+.table-striped{
+	background-color: antiquewhite;
+}
+
+h1{
+	position: relative;
+	font-size: 3rem;
+	color: rgb(63, 63, 63);
+}
+
+main {
+	padding: 2em 0;
+}
+
+.form-group {
+	margin: 1em 0;
+}
+
+.rodape p{
+	text-align: center;
+	box-shadow: none;
+	height: 20%;
+	size: 20%;
+}
+.area {
+	width: 100%;
+	padding: 1em 0;
+}
+
+.botoes {
+	text-align: center;
+}
